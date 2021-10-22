@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+}
+
+marquee {
+    background-color: #eae4e9;
+    color: black;
+    height: 40px;
+    font-family: serif;
+    font-size: 30px;
+    width: 100%;
+}
+
+#pic1 {
+    width: 950px;
+    border-radius: 25px;
+    padding: 15px;
+    margin-bottom: 20px
+}
+
+#main {
+    background-color: #eae4e9;
+}
+
+#main h1 {
+    color: #343a40;
+}
+
+#contact h2 {
+    font-size: 35px;
+    color: black;
+}
+
+
+#campus-life p {
+    margin-bottom: 150px;
+}
+
+#sports {
+    padding-left: 0px;
+    padding-right: 0px;
+    border: 1px solid grey;
+    float: none;
+}
+
+#sports img {
+    width: 100%;
+}
+
+#sports hr {
+    width: 230px;
+}
+
+#sports h5,
+#sports p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
